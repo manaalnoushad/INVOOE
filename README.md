@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+invoicematcher
+=======
 # INVOOE
 A webapp which uses AI tool for matching invoices and purchase orders.
 # Invoice & Purchase Order Matching System
@@ -233,3 +236,4 @@ If you encounter any issues or have questions:
 **Live Demo**: [https://invooe.vercel.app](https://invooe.vercel.app)
 
 **Made with ❤️ for automated invoice processing**
+>>>>>>> 840e3693c5232ce925f8d1f093ad2c8fa9a716ae
